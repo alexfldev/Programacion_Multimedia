@@ -1,3 +1,5 @@
+package Ejercicios_Prueba
+
 fun main() {
     println("--- REGISTRO DE USUARIO ---")
 

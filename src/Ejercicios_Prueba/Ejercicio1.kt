@@ -1,3 +1,5 @@
+package Ejercicios_Prueba
+
 fun main() {
     // 1. Mostrar un mensaje en pantalla pidiendo el dato
     // Usamos 'print' en lugar de 'println' para que el cursor se quede en la misma línea

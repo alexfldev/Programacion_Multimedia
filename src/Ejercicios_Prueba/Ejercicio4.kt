@@ -1,3 +1,5 @@
+package Ejercicios_Prueba
+
 fun main() {
     // 1. Creamos una lista de números (inmutable, solo lectura)
     val numeros = listOf(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)

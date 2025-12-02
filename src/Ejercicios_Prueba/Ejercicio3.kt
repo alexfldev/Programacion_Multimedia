@@ -1,3 +1,5 @@
+package Ejercicios_Prueba
+
 fun main() {
     // 1. Crear una lista mutable (modificable) para guardar texto
     // Usamos 'mutableListOf' porque la lista cambiará de tamaño (agregaremos y borraremos cosas)
