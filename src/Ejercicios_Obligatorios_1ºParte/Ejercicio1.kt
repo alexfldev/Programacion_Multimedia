@@ -39,7 +39,7 @@ fun main() {
     println("Total libros ahora: ${biblioteca.size}")
 }
 
-// ---------------- FUNCIONES DEL SISTEMA ----------------
+
 
 // 3. Implementa buscarPorAutor
 fun buscarPorAutor(libros: List<Libro>, nombreAutor: String): List<Libro> {

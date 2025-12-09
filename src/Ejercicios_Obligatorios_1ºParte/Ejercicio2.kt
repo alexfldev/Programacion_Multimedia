@@ -82,7 +82,7 @@ fun procesarEntrada(input: Double?, origen: String, destino: String, logicaConve
     }
 }
 
-// ---------------- LÓGICA PURA ----------------
+
 
 // 3. Implementa celsiusAFahrenheit
 fun celsiusAFahrenheit(celsius: Double): Double {
