@@ -1,4 +1,4 @@
-package Ejercicios_Opcionales_1ºParte
+package Ejercicios_Opcionales_2ºPractica
 // Usamos un data class para guardar cada medición
 data class RegistroIMC(
     val peso: Double,

@@ -1,4 +1,4 @@
-package Ejercicios_Obligatorios_1ºParte
+package Ejercicios_Obligatorios_2ºPractica
 // 10. Define data class Contacto
 // Usamos 'var' en esFavorito porque vamos a querer cambiar ese valor (toggle)
 data class Contacto(

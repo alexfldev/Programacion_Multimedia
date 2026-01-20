@@ -1,5 +1,4 @@
-package Ejercicios_Obligatorios_1ºParte
-import kotlin.math.roundToInt
+package Ejercicios_Obligatorios_2ºPractica
 
 // 1. Definimos una excepción personalizada
 // Heredamos de Exception para poder lanzarla cuando queramos

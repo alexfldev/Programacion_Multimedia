@@ -1,4 +1,4 @@
-package Ejercicios_Obligatorios_1ºParte
+package Ejercicios_Obligatorios_2ºPractica
 
 data class Libro(
     val titulo: String,
